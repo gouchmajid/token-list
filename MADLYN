@@ -1,0 +1,9 @@
+{
+  "chainId": 101,
+  "address": "HHs7t2Sabgp3sTuFZvzcB6jg1G53KKdAwSEiC4dGXopz",
+  "symbol": "MDL",
+  "name": "MADL",
+  "decimals": 9,
+  "logoURI": "https://gateway.pinata.cloud/ipfs/bafybeidk5ddai6bkwhsfja22dr4toif2uvgul3sounqej33cbddvak7ggu",
+  "tags": ["utility-token", "meme"]
+}
